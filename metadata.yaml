@@ -1,0 +1,31 @@
+_repo: Six-Women_13238
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cross, Victoria
+    aliases:
+    - Cory, Annie Sophie
+    - Cory, Vivian
+    - Crosse, Victoria
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '1237'
+    url: http://www.gutenberg.org/2009/agents/1237
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Sophie_Cory
+description: ''
+gutenberg_issued: '2004-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Six Women
+url: http://www.gutenberg.org/ebooks/13238
